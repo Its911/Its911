@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jeremy Lin'2C-B#1337
+- 👋 Hi, I’m Izoh#1337
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Pentesting, JavaScript
 
